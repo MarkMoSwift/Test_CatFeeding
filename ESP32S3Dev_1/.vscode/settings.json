@@ -1,0 +1,9 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "idf.adapterTargetName": "esp32s3",
+    "C_Cpp.errorSquiggles": "Enabled",
+    "files.associations": {
+        "task.h": "c",
+        "freertos.h": "c"
+    }
+}

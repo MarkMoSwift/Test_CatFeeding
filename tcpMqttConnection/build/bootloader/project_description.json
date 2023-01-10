@@ -1,0 +1,21 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "D:/Users/86177/ESPIDF/esp/esp-idf/components/bootloader/subproject",
+    "build_dir":          "D:/Users/86177/source/ESP32Works/cat-feeding-collection/tcpMqttConnection/build/bootloader",
+    "config_file":        "D:/Users/86177/source/ESP32Works/cat-feeding-collection/tcpMqttConnection/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.4.1-dirty",
+    "target":             "esp32s3",
+    "rev":                "",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32s3-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "D:/Users/86177/ESPIDF/esp/esp-idf/components/efuse/Kconfig;D:/Users/86177/ESPIDF/esp/esp-idf/components/esp32s3/Kconfig;D:/Users/86177/ESPIDF/esp/esp-idf/components/esp_common/Kconfig;D:/Users/86177/ESPIDF/esp/esp-idf/components/esp_hw_support/Kconfig;D:/Users/86177/ESPIDF/esp/esp-idf/components/esp_system/Kconfig;D:/Users/86177/ESPIDF/esp/esp-idf/components/freertos/Kconfig;D:/Users/86177/ESPIDF/esp/esp-idf/components/hal/Kconfig;D:/Users/86177/ESPIDF/esp/esp-idf/components/log/Kconfig;D:/Users/86177/ESPIDF/esp/esp-idf/components/newlib/Kconfig;D:/Users/86177/ESPIDF/esp/esp-idf/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "D:/Users/86177/ESPIDF/esp/esp-idf/components/bootloader/Kconfig.projbuild;D:/Users/86177/ESPIDF/esp/esp-idf/components/esp_rom/Kconfig.projbuild;D:/Users/86177/ESPIDF/esp/esp-idf/components/esptool_py/Kconfig.projbuild;D:/Users/86177/ESPIDF/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32s3", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "D:/Users/86177/ESPIDF/esp/esp-idf/components/bootloader", "D:/Users/86177/ESPIDF/esp/esp-idf/components/bootloader_support", "D:/Users/86177/ESPIDF/esp/esp-idf/components/efuse", "D:/Users/86177/ESPIDF/esp/esp-idf/components/esp32s3", "D:/Users/86177/ESPIDF/esp/esp-idf/components/esp_common", "D:/Users/86177/ESPIDF/esp/esp-idf/components/esp_hw_support", "D:/Users/86177/ESPIDF/esp/esp-idf/components/esp_rom", "D:/Users/86177/ESPIDF/esp/esp-idf/components/esp_system", "D:/Users/86177/ESPIDF/esp/esp-idf/components/esptool_py", "D:/Users/86177/ESPIDF/esp/esp-idf/components/freertos", "D:/Users/86177/ESPIDF/esp/esp-idf/components/hal", "D:/Users/86177/ESPIDF/esp/esp-idf/components/log", "D:/Users/86177/ESPIDF/esp/esp-idf/components/bootloader/subproject/main", "D:/Users/86177/ESPIDF/esp/esp-idf/components/bootloader/subproject/components/micro-ecc", "D:/Users/86177/ESPIDF/esp/esp-idf/components/newlib", "D:/Users/86177/ESPIDF/esp/esp-idf/components/partition_table", "D:/Users/86177/ESPIDF/esp/esp-idf/components/soc", "D:/Users/86177/ESPIDF/esp/esp-idf/components/spi_flash", "D:/Users/86177/ESPIDF/esp/esp-idf/components/xtensa", "" ]
+}
